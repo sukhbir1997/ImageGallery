@@ -1,7 +1,9 @@
 # ImageGallery
 
 Bootstrap Grid System
+
 Simple responsive Page
+
 Works on mobile sizes
 
 
